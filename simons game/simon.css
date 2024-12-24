@@ -1,0 +1,44 @@
+body {
+    text-align: center;
+}
+
+.btn {
+    height: 50px;
+    width: 50px;
+    border-radius: 20%;
+    border: 2px black solid;
+    margin: 1rem;
+    
+    
+}
+
+.btn-container {
+    display: flex;
+    justify-content: center;
+    
+}
+
+.red {
+    background-color: #d95980;
+}
+.yellow {
+    background-color: #f99b45 ;
+}
+.green {
+    background-color: #63aac0;
+}
+.purple {
+    background-color: #819ff9;
+}
+.flash {
+  background-color: white;   
+}
+.userFlash {
+    background-color: green;
+}
+
+#highScore {
+    color: brown;
+    display: flex;
+    justify-content: center;
+}
